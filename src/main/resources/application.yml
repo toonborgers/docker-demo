@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://db:3306/customers
+    username: maria
+    password: maria
+    driverClassName: com.mysql.jdbc.Driver
+  jpa:
+    database: mysql

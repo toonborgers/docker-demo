@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dockerdemo.iml" filepath="$PROJECT_DIR$/.idea/modules/dockerdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dockerdemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dockerdemo_main.iml" group="dockerdemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dockerdemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dockerdemo_test.iml" group="dockerdemo" />
+    </modules>
+  </component>
+</project>
